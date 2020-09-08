@@ -20,9 +20,9 @@ Some relevant categories include:
 [PyCitySchools Jupyter Notebook: PyCitySchools.ipynb](PyCitySchools/PyCitySchools.ipynb)
 
 ### Link to Source Files:
-[Schools data: schools_complete.csv](Resources/schools_complete.csv)
+[Schools data: schools_complete.csv](../Resources/schools_complete.csv)
 
-[Student data: students_complete.csv](Resources/students_complete.csv)
+[Student data: students_complete.csv](../Resources/students_complete.csv)
 
 
 
