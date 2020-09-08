@@ -16,8 +16,12 @@ Some relevant categories include:
     9) Scores by School Type
 
 
-### Links:
-[Link to PyCitySchools Jupyter Notebook](PyCitySchools/PyCitySchools.ipynb)
+### Link to Jupyter Notebook:
+[PyCitySchools Jupyter Notebook: PyCitySchools.ipynb](PyCitySchools/PyCitySchools.ipynb)
+
+### Link to Source Files:
+[Schools data: schools_complete.csv](Resources/schools_complete.csv)
+[Student data: students_complete.csv](Resources/students_complete.csv)
 
 
 
