@@ -16,7 +16,8 @@ Some relevant categories include:
     9) Scores by School Type
 
 
-[Link to Jupyter Notebook:](PyCitySchools/PyCitySchools.ipynb)
+### Links:
+[Link to PyCitySchools Jupyter Notebook](PyCitySchools/PyCitySchools.ipynb)
 
 
 
