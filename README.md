@@ -16,5 +16,7 @@ Some relevant categories include:
     9) Scores by School Type
 
 
-Link to Jupyter Notebook:
-https://github.com/jbski/pandas-challenge/commit/a4621c6fde4ea60ff48b185b9ae50bdfacdfc08c 
+[Link to Jupyter Notebook:](PyCitySchools/PyCitySchools.ipynb)
+
+
+
