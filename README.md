@@ -15,6 +15,11 @@ Some relevant categories include:
     8) Scores by School Size
     9) Scores by School Type
 
+### Observable Trends:
+1) Charter schools perform better than the district schools
+
+2) Spending per student is not linked to better test scores. The best scores are actually in the lowest spending category.
+
 
 ### Link to Jupyter Notebook:
 [PyCitySchools Jupyter Notebook: PyCitySchools.ipynb](PyCitySchools/PyCitySchools.ipynb)
